@@ -1,0 +1,5 @@
+{
+  "name": "AI Full-stack Chat",
+  "description": "A lightweight, versatile chat application powered by Gemini. It supports multi-turn conversations, image analysis, and interactive CSV data querying with visualizations.",
+  "requestFramePermissions": []
+}
